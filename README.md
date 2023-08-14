@@ -19,6 +19,6 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) 
 <br>
 ## 📊 Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivangis8&theme=tokyonight&hide_border=false&count_private=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=shivangis8&theme=tokyonight&hide_border=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivangis8&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivangis8&theme=tokyonight&layout=compact&hide_border=false&count_private=false)
