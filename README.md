@@ -3,7 +3,7 @@
 :mortar_board: I'm currently a graduate student at Stevens Institute of Technology, NJ pursuing M.S. in Financial Analytics.
 <br>:briefcase: I have 3 years of experience working as a  Financial Data Analyst for a large insurance firm.
 <br><br>💫 Excited to attend Grace Hopper Conference 2023 in Orlando, Florida. Feel free to reach out to me.
-<br>:email:Email: shivangis0822@gmail.com
+<br>:email: Email: shivangis0822@gmail.com
 <p>Connect with me on LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivangisfa) 
